@@ -1,0 +1,8 @@
+C:\Users\spamx\PycharmProjects\express-automation\.venv\Scripts\python.exe C:\Users\spamx\PycharmProjects\express-automation\main_ballistics.py
+[gen    1] evals=   24 gen_best=      6.6 best=      6.6 sigma=0.272 time=798.5s
+[gen    2] evals=   48 gen_best=    1.258 best=    1.258 sigma=0.283 time=1580.9s
+
+✅ FEASIBLE SOLUTION FOUND
+{'gen': 3, 'eval': 49, 'f': 0.0, 't_engine': np.float64(45.48726343919475), 'J': np.float64(2100.0), 'mdot_A': np.float64(13.633075501711758), 'kB': np.float64(1.1100909369476457), 'mdot_B': np.float64(-0.32741282530564114), 't1_vel_margin': 3.7000000000000455, 't2_vel_margin': 2.6000000000000227, 't1_mass_margin': 35.10000000000002, 't2_mass_margin': 244.10000000000002}
+
+Process finished with exit code 0
